@@ -10,15 +10,17 @@
 В файле .env прописываем все нужные конфиги для подключений
 
 # TgBot config connect
-TOKEN=
-ADMINS=
+
+TOKEN=\n
+ADMINS=\n
 
 # Postgresql config connect
-HOST=
-PORT=
-DB_NAME=
-LOGIN=
-PASSWORD=
+
+HOST=\n
+PORT=\n
+DB_NAME=\n
+LOGIN=\n
+PASSWORD=\n
 
 В файле main.py прописываем все необходимые команды для подключения роутеров, сессий и миддлвариев
 
